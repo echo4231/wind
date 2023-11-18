@@ -1,12 +1,12 @@
 ---
 publishDate: 2023-08-12T00:00:00Z
-title: Get started with AstroWind to create a website using Astro and Tailwind CSS
+title: Chemtrails
 excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
-image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
-category: Tutorials
+image: https://cdn.leonardo.ai/users/4622daa4-ee81-4a34-a0af-f70d517e60ad/generations/79827218-8845-4c15-ac29-0937ee3056c9/Leonardo_Vision_XL_A_stunning_cover_photo_for_Chemtrails_Consp_0.jpg
+category: Science and Environment
 tags:
-  - astro
-  - tailwind css
+  - health
+  - medicine
 metadata:
   canonical: https://astrowind.vercel.app/get-started-website-with-astro-tailwind-css
 ---
