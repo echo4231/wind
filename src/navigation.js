@@ -54,7 +54,6 @@ export const footerData = {
       links: [
         { text: 'Media', href: '#' },
         { text: 'Research', href: '#' },
-        { text: 'Map', href: '#' },
       ],
     },
     {
@@ -69,7 +68,7 @@ export const footerData = {
   ],
   secondaryLinks: [
     { text: 'Terms', href: getPermalink('/terms') },
-    { text: 'API', href: getPermalink('/privacy') },
+    { text: 'Disclamer', href: getPermalink('/privacy') },
   ],
   socialLinks: [
     { ariaLabel: 'X', icon: 'tabler:brand-x', href: '#' },
@@ -78,6 +77,6 @@ export const footerData = {
     { ariaLabel: 'Github', icon: 'tabler:brand-github', href: '#' },
   ],
   footNote: `
-    🖖 Made by <a class="text-blue-600 hover:underline dark:text-gray-200" href="#"> echo</a> · All rights reserved.
+    Made by<a class="text-blue-600 hover:underline dark:text-gray-200" href="#"> Database</a> · All rights reserved.
   `,
 };
